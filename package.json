@@ -11,9 +11,12 @@
   "devDependencies": {
     "angular": "^1.5.6",
     "angular-animate": "^1.5.6",
+    "angular-aria": "^1.5.7",
     "angular-bootstrap": "^0.12.2",
     "angular-bootstrap-npm": "^0.14.3",
+    "angular-material": "^1.1.0-rc.5",
     "angular-ui-router": "^0.3.1",
+    "body-parser": "^1.15.2",
     "bootstrap": "^3.3.6",
     "express": "^4.13.4",
     "font-awesome": "^4.6.3",
